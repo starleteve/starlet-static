@@ -1,0 +1,2 @@
+# starlet-static
+my info
